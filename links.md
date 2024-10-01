@@ -14,3 +14,7 @@ A Seven Minutes Video Explaining What Is Cyber Security.
 A vim cheatsheet.
 * [File Systems](https://www.geeksforgeeks.org/file-systems-in-operating-system/) ---
 Explaination about file systems in OS.
+* [Virtual Memory](https://www.youtube.com/watch?v=qlH4-oHnBb8) ---
+A video that explain what is virtual memory.
+* [Virtual Memory in OS](https://www.youtube.com/watch?v=qlH4-oHnBb8) ---
+Virtual Memory in Operating System.
