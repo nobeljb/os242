@@ -2,6 +2,13 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://doit.vlsm.org/ETC/logCodes.txt
 
+ZCZC W05 100 L13 Assignment #03 
+ZCZC W05 100 L01 SCELE/Discord related
+ZCZC W05 20 L15 Assignment #05
+ZCZC W05 30 L14 Assignment #04
+ZCZC W05 20 L12 Assignment #02
+ZCZC W05 20 L11 Assignment #01
+ZCZC W05 120 L81 Listening: Radio, Music, etc.
 ZCZC W04 100 L01 SCELE/Discord related
 ZCZC W04 30 L15 Assignment #05
 ZCZC W04 60 L14 Assignment #04

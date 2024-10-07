@@ -18,3 +18,5 @@ Explaination about file systems in OS.
 A video that explain what is virtual memory.
 * [Virtual Memory in OS](https://www.youtube.com/watch?v=qlH4-oHnBb8) ---
 Virtual Memory in Operating System.
+* [Virtual Memory in OS](https://www.geeksforgeeks.org/difference-between-uniform-memory-access-uma-and-non-uniform-memory-access-numa/) ---
+Difference between Uniform Memory Access (UMA) and Non-uniform Memory Access (NUMA).
