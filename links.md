@@ -20,3 +20,5 @@ A video that explain what is virtual memory.
 Virtual Memory in Operating System.
 * [Virtual Memory in OS](https://www.geeksforgeeks.org/difference-between-uniform-memory-access-uma-and-non-uniform-memory-access-numa/) ---
 Difference between Uniform Memory Access (UMA) and Non-uniform Memory Access (NUMA).
+* [Fork in C](https://www.geeksforgeeks.org/fork-system-call/) ---
+How the fork() system call works in C.
