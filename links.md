@@ -22,3 +22,5 @@ Virtual Memory in Operating System.
 Difference between Uniform Memory Access (UMA) and Non-uniform Memory Access (NUMA).
 * [Fork in C](https://www.geeksforgeeks.org/fork-system-call/) ---
 How the fork() system call works in C.
+* [Concurrency & Synchronization in Operating Systems](https://youtube.com/playlist?list=PL8tc66sMn9Kggk4zRPzcjXNUIDDnJKUnU&si=RNfx3pxQOv5UYzko) ---
+Playlist Youtube about Concurrency & Synchronization in Operating Systems.
