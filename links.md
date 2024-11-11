@@ -24,3 +24,5 @@ Difference between Uniform Memory Access (UMA) and Non-uniform Memory Access (NU
 How the fork() system call works in C.
 * [Concurrency & Synchronization in Operating Systems](https://youtube.com/playlist?list=PL8tc66sMn9Kggk4zRPzcjXNUIDDnJKUnU&si=RNfx3pxQOv5UYzko) ---
 Playlist Youtube about Concurrency & Synchronization in Operating Systems.
+* [Linux From Scratch](https://www.linuxfromscratch.org/lfs/view/12.2/) ---
+Linux From Scratch Version 12.2.
